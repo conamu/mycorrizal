@@ -1,13 +1,13 @@
 # THIS IS A WIP LEARNING PROJECT
-(If you happen to stumble on this project lol)
+(If you happen to stumble on this project ^^)
 
-I primarily wanted to build something unique, enabling ditributed monolithic architectures.
+I primarily wanted to build something unique, enabling distributed monolithic architectures.
 Turns out it was a great learning experience. Both in how caches and datastructures work, 
 how hard networking can be in software development and why engineering decissions are taken the way they are nowadays.
 
 Also I learned a lot about why we choose Valkey and Postgres for storage and caching for almost every project!
 
-I have the uttermost respect for the people who build these systems.
+I have the uttermost respect for the people who build these systems and improve those over decades.
 
 All code in here was written by me. The last part, completing the rebalancer and some parts of the geospatial index cache have been written in assistance of Claude Code.
 All the engineering effort, research, ideas, etc... where done by me. Claude assisted in writing the research documents in the Docs folder to save time on google.
